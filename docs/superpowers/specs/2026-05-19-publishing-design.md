@@ -6,6 +6,7 @@
 ## Goals
 - Create a comprehensive `README.md` for GitHub with detailed metrics.
 - Create a specialized `README.md` (Model Card) for Hugging Face.
+- Create a `requirements.txt` file for easier installation.
 - Push the model and relevant files to Hugging Face.
 - Push the codebase to GitHub.
 
@@ -45,6 +46,7 @@
 
 ## Publishing Workflow
 1. **GitHub**:
+   - Create `requirements.txt` using `uv export` or manual dependency list.
    - Update/Create `README.md`.
    - Git add, commit, and push to `origin main`.
 2. **Hugging Face**:
