@@ -13,11 +13,21 @@ This project implements a deep learning model to detect 38 different types of pl
 ```bash
 uv sync
 ```
+This will install dependencies from `pyproject.toml` and `uv.lock`.
 
 ### Using pip
 ```bash
 pip install -r requirements.txt
 ```
+
+## Project Structure
+- `Plant_Disease_Detection.ipynb`: Training and experimentation notebook.
+- `inference.py`: Script for single-image prediction and full evaluation.
+- `plant_disease_efficientnet.keras`: The trained model file (not included in the repository, download from Hugging Face).
+- `class_names.txt`: Mapping of class indices to human-readable names.
+- `evaluation_report.md`: Detailed performance metrics and classification report.
+- `requirements.txt`: List of Python dependencies.
+- `pyproject.toml`: Project metadata and dependency configuration.
 
 ## Usage
 
