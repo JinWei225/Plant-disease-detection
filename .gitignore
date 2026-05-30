@@ -8,6 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Dataset
 Plant Disease Detection/
 img/
 Test Leaves - Zoey/
@@ -20,3 +22,9 @@ Test Leaves - Sze Ching/
 
 # Large model files
 *.keras
+
+# Assignment File
+README (Assignment).md
+
+# Antigravity
+.antigravitycli/
