@@ -67,5 +67,3 @@ Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot      0.579     0.786     0.66
 
 ![Confusion Matrix](evaluation_confusion_matrix.png)
 
----
-*Detailed predictions can be found in [evaluation_results.csv](./evaluation_results.csv)*
