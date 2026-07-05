@@ -30,4 +30,5 @@ submission/
 # Antigravity
 .antigravitycli/
 docs/
-.python-version
+*.jpg
+main.py
