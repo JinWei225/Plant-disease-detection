@@ -29,3 +29,5 @@ submission/
 
 # Antigravity
 .antigravitycli/
+docs/
+.python-version
